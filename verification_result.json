@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "csv_rows": 16141,
+  "csv_columns": 20,
+  "all_net_units": 35165,
+  "domestic_net_units": 34725,
+  "mercur_net_units": 394,
+  "domestic_sales_usd": "801697865.966864000293",
+  "mercur_sales_usd": "15121529.040970000004",
+  "notebooks": [
+    {
+      "file": "01_initial_review.ipynb",
+      "executed_code_cells": 5,
+      "embedded_png": 0
+    },
+    {
+      "file": "02_cleaning.ipynb",
+      "executed_code_cells": 6,
+      "embedded_png": 0
+    },
+    {
+      "file": "03_market_eda.ipynb",
+      "executed_code_cells": 10,
+      "embedded_png": 12
+    },
+    {
+      "file": "04_mercur_analysis.ipynb",
+      "executed_code_cells": 6,
+      "embedded_png": 4
+    }
+  ],
+  "report_word_count": 1342,
+  "source_sha256": "5ac7f7284070e9ea5bdaedb96a95b0793ec9424a8831a06c9262acb2adfeef33",
+  "visual_qa": "All 16 PNG charts inspected; Word report rendered to 5 pages and inspected. HTML browser preview unavailable: file URL policy.",
+  "submission": "Repository URL included in report; uploading files, public access check and LMS submission remain."
+}

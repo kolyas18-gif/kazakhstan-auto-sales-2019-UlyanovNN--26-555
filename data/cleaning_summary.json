@@ -1,0 +1,16 @@
+{
+  "input_rows": 39966,
+  "empty_rows": 0,
+  "exact_duplicates_removed": 18698,
+  "rows_after_exact_dedup": 21268,
+  "quarantine_rows": 6,
+  "valid_source_rows": 21262,
+  "renault_shift_rows": 27,
+  "niva_corrected_rows": 25,
+  "source_quantity_raw": 53874.0,
+  "quantity_after_cleaning": 35165,
+  "sales_after_cleaning_usd": 815179587.190801,
+  "output_rows": 16141,
+  "output_columns": 20,
+  "source_sha256": "5ac7f7284070e9ea5bdaedb96a95b0793ec9424a8831a06c9262acb2adfeef33"
+}
